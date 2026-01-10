@@ -1,13 +1,6 @@
 ## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm <h1> Your Parvathy Krishna </h1>
-<h3 align="center">BCA Honours Student | Web Developer | Python Enthusiast</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontColor=58a6ff&fontSize=30" />
-</p>
-
----
+I'm Your Parvathy Krishna
+BCA Honours Student | Web Developer | Python Enthusiast
 
 ## 🌌 About Me
 🎓 Four-Year UGP student pursuing **BCA Honours** (Second Year)  
