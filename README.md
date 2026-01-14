@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Your Parvathy Krishna
+I'm  Parvathy Krishna
 BCA Honours Student | Web Developer | Python Enthusiast
 
 ## 🌌 About Me
