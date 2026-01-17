@@ -6,26 +6,19 @@ BCA Honours Student | Web Developer | Python Enthusiast
 🎓 Four-Year UGP student pursuing **BCA Honours** (Second Year)  
 💻 Passionate about technology and continuous learning  
 🚀 Interested in building projects and improving skills step by step  
-
 ---
-
 ## 💡 Interested In
 - 🌐 Web Development  
 - 🤖 Artificial Intelligence & Machine Learning  
 - 🐍 Python Programming  
 - ⚙️ Full-Stack Development  
-- 🔓 Open-Source Contribution  
-
 ---
-
 ## 🔥 Current Focus
 - Working on the **MERN Stack**  
 - Exploring **AI & ML fundamentals**  
 - Strengthening **Python & JavaScript**  
 - Improving **GitHub contributions**  
-
 ---
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parvathykrishnakrishna91@gmail.com) 
@@ -43,19 +36,15 @@ BCA Honours Student | Web Developer | Python Enthusiast
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
 ## 🎯 Goals
 ✔ Become a proficient **Full-Stack Developer**  
 ✔ Build strong foundations in **AI & ML**  
 ✔ Contribute to **Open-Source Projects**  
 ✔ Create impactful real-world applications  
-
 ---
-
 ## 📫 Contact Me
 📧 **Email:** parvathykrishnakrishna91@gmail.com
 💻 **GitHub:** https://github.com/ParvathyKrishna57  
-
 ---
 
 ⭐ *Thanks for visiting my profile — feel free to explore my repositories!*
